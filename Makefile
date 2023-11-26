@@ -6,4 +6,4 @@ main.o: main.c jhash.h
 	gcc -c main.c
 
 clean: 
-	rm *.o output
+	rm *.o
